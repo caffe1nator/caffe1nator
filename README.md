@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caffe1nator!
-- 👀 I’m interested in cryptography, blockchain development
-- 🌱 I’m currently learning zero-knowledge cryptograpjy
+- 👀 I’m interested in cryptography, blockchain development and ethereum R&D
+- 🌱 I’m currently learning zero-knowledge cryptography
 - 📕 I'm currently reading "Proof Of Stake" by Vitalik Buterin
 
 
